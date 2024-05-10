@@ -5,7 +5,5 @@
 </div>
 
 ### :memo: Aulas
-- [ ] Aula
-- [ ] Aula
-- [ ] Aula
-- [ ] Aula
+- [x] O que esperar do curso
+- [x] Como Java Funciona
