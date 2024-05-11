@@ -7,3 +7,6 @@
 ### :memo: Aulas
 - [x] O que esperar do curso
 - [x] Como Java Funciona
+- [x] Fazendo o download da JDK 15
+- [x] Configurando as variavéis de ambiente
+- [x] Executando compilação manualmente
