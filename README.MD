@@ -13,3 +13,4 @@
 - [x] Aula 06 - Download da IDE IntelliJ Community
 - [x] Aula 07 - Conhecendo a IDE Intellij Community
 - [x] Aula 08 - Organizando o código em pacotes
+- [x] Aula 09 - Comentários
