@@ -15,3 +15,4 @@
 - [x] Aula 08 - Organizando o código em pacotes
 - [x] Aula 09 - Comentários
 - [x] Aula 10 - Tipos primitivos pt 01 - convenções de variáveis
+- [x] Aula 11 - Tipos primitivos pt 02 - declaração e tamanho em memória
