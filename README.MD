@@ -17,3 +17,4 @@
 - [x] Aula 10 - Tipos primitivos pt 01 - convenções de variáveis
 - [x] Aula 11 - Tipos primitivos pt 02 - declaração e tamanho em memória
 - [x] Aula 12 - Tipos primitivos pt 03 - casting
+- [x] Aula 13 - Tipos primitivos pt 04 - Strings
