@@ -14,3 +14,4 @@
 - [x] Aula 07 - Conhecendo a IDE Intellij Community
 - [x] Aula 08 - Organizando o código em pacotes
 - [x] Aula 09 - Comentários
+- [x] Aula 10 - Tipos primitivos pt 01 - convenções de variáveis
