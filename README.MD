@@ -19,3 +19,4 @@
 - [x] Aula 12 - Tipos primitivos pt 03 - casting
 - [x] Aula 13 - Tipos primitivos pt 04 - Strings
 - [x] Aula 14 - Tipos primitivos pt 05 - Exercício
+- [x] Aula 15 - Operadores pt 01 - Aritiméticos
