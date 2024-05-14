@@ -23,3 +23,4 @@
 - [x] Aula 16 - Operadores pt 02 - Relacionais
 - [x] Aula 17 - Operadores pt 03 - Lógicos AND
 - [x] Aula 18 - Operadores pt 04 - Lógicos OR
+- [x] Aula 19 - Operadores pt 05 - Atribuição
