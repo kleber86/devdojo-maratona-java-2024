@@ -24,3 +24,4 @@
 - [x] Aula 17 - Operadores pt 03 - Lógicos AND
 - [x] Aula 18 - Operadores pt 04 - Lógicos OR
 - [x] Aula 19 - Operadores pt 05 - Atribuição
+- [x] Aula 20 - Estruturas Condicionais pt 01 - IF
