@@ -27,3 +27,5 @@
 - [x] Aula 20 - Estruturas Condicionais pt 01 - IF
 - [x] Aula 21 - Estruturas Condicionais pt 02 - ELSE IF
 - [x] Aula 22 - Estruturas Condicionais pt 03 - Operador ternário
+- [x] Aula 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
+- [x] Aula 24 - Estruturas Condicionais pt 05 - Resolução do exercícios
