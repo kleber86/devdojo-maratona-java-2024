@@ -26,3 +26,4 @@
 - [x] Aula 19 - Operadores pt 05 - Atribuição
 - [x] Aula 20 - Estruturas Condicionais pt 01 - IF
 - [x] Aula 21 - Estruturas Condicionais pt 02 - ELSE IF
+- [x] Aula 22 - Estruturas Condicionais pt 03 - Operador ternário
