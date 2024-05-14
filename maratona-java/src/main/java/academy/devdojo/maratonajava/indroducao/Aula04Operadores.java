@@ -57,12 +57,5 @@ public class Aula04Operadores {
         contador ++; // É a mesma coisa que contador += 1
 
         System.out.println(contador);
-
-
-
-
-
-
-
     }
 }
