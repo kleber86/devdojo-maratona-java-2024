@@ -29,3 +29,4 @@
 - [x] Aula 22 - Estruturas Condicionais pt 03 - Operador ternário
 - [x] Aula 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
 - [x] Aula 24 - Estruturas Condicionais pt 05 - Resolução do exercícios
+- [x] Aula 25 - Estruturas Condicionais pt 06 - Switch
