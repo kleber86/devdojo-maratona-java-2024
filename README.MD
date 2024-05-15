@@ -33,4 +33,5 @@
 - [x] Aula 26 - Estruturas Condicionais pt 07 - Switch exercício
 - [x] Aula 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for
 - [x] Aula 28 - Estruturas de Repetição pt 02 - Exercício for
-- [x] Aula 29 - Estruturas de Repetição pt 03 - Break
+- [x] Aula 29 - Estruturas de Repetição pt 03 - BreakAula 29 - Estruturas de Repetição pt 03 - Break
+- [x] Aula 30 - Estruturas de Repetição pt 04 - Exercício Break
