@@ -35,3 +35,4 @@
 - [x] Aula 28 - Estruturas de Repetição pt 02 - Exercício for
 - [x] Aula 29 - Estruturas de Repetição pt 03 - BreakAula 29 - Estruturas de Repetição pt 03 - Break
 - [x] Aula 30 - Estruturas de Repetição pt 04 - Exercício Break
+- [x] Aula 31 - Estruturas de Repetição pt 05 - Continue
