@@ -37,3 +37,4 @@
 - [x] Aula 30 - Estruturas de Repetição pt 04 - Exercício Break
 - [x] Aula 31 - Estruturas de Repetição pt 05 - Continue
 - [x] Aula 32 - Arrays pt 01
+- [x] Aula 33 - Arrays pt 02
