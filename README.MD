@@ -39,3 +39,4 @@
 - [x] Aula 32 - Arrays pt 01
 - [x] Aula 33 - Arrays pt 02
 - [x] Aula 34 - Arrays pt 03
+- [x] Aula 35 - Arrays pt 04 - Foreach
