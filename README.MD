@@ -44,3 +44,4 @@
 - [x] Aula 37 - Arrays Multidimensionais pt 02 - Foreach
 - [x] Aula 38 - Arrays Multidimensionais pt 03 - Inicialização
 - [x] Aula 39 - Orientação Objetos pt 01 - Introdução classes pt 01
+- [x] Aula 40 - Orientação Objetos - Introdução classes pt 02
