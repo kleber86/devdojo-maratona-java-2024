@@ -41,3 +41,4 @@
 - [x] Aula 34 - Arrays pt 03
 - [x] Aula 35 - Arrays pt 04 - Foreach
 - [x] Aula 36 -  Arrays Multidimensionais pt 01
+- [x] Aula 37 -  Arrays Multidimensionais pt 02 - Foreach
