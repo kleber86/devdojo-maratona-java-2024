@@ -45,3 +45,4 @@
 - [x] Aula 38 - Arrays Multidimensionais pt 03 - Inicialização
 - [x] Aula 39 - Orientação Objetos pt 01 - Introdução classes pt 01
 - [x] Aula 40 - Orientação Objetos - Introdução classes pt 02
+- [x] Aula 41 - Orientação Objetos - Coesão
