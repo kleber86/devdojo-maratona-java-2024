@@ -46,3 +46,4 @@
 - [x] Aula 39 - Orientação Objetos pt 01 - Introdução classes pt 01
 - [x] Aula 40 - Orientação Objetos - Introdução classes pt 02
 - [x] Aula 41 - Orientação Objetos - Coesão
+- [x] Aula 42 -  Orientação Objetos - Exercício Classes
