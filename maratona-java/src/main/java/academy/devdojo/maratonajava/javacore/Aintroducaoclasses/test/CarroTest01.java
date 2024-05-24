@@ -21,6 +21,8 @@ public class CarroTest01 {
         System.out.println(carro1.modelo);
         System.out.println(carro1.ano);
 
+        carro2 = carro1;
+
         System.out.println("\nCarro 2");
         System.out.println(carro2.nome);
         System.out.println(carro2.modelo);
