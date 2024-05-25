@@ -49,3 +49,4 @@
 - [x] Aula 42 -  Orientação Objetos - Exercício Classes
 - [x] Aula 43 - Orientação Objetos - Referência de objetos
 - [x] Aula 44 - Orientação Objetos - Métodos pt 01
+- [x] Aula 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
