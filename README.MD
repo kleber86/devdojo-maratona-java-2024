@@ -54,3 +54,4 @@
 - [x] Aula 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
 - [x] Aula 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
 - [x] Aula 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência
+- [x] Aula 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
