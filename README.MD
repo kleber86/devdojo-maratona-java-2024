@@ -57,3 +57,4 @@
 - [x] Aula 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
 - [x] Aula 51 - Orientação Objetos - Métodos pt 08 - Referência this
 - [x] Aula 52 - Orientação Objetos - Métodos pt 09 - Varargs
+- [x] Aula 53 - Orientação Objetos - Métodos pt 10 - Exercise
