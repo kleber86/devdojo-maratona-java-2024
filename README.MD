@@ -59,3 +59,4 @@
 - [x] Aula 52 - Orientação Objetos - Métodos pt 09 - Varargs
 - [x] Aula 53 - Orientação Objetos - Métodos pt 10 - Exercise
 - [x] Aula 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
+- [x] Aula 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
