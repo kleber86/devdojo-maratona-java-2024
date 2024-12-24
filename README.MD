@@ -62,4 +62,5 @@
 - [x] Aula 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
 - [x] Aula 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
 - [x] Aula 57 - Orientação Objetos - Sobrecarga de métodos
-- [x] Aula 58 - Orientação Objetos - Construtores pt 01
+- [x] Aula 58 - Orientação Objetos - Construtores pt 01aula 
+- [x] Aula 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga

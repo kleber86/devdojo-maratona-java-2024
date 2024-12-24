@@ -8,7 +8,7 @@ public class AnimeTest01 {
     Anime naruto = new Anime("Naruto", "TV", 220, "Shounen");
     naruto.imprime();
 
-    Anime pokemon = new Anime("Pokemon", "TV", 1135, "Aventura");
+    Anime pokemon = new Anime("Pokemon", "TV", 1135, "Aventura", "Studio Pokemon");
     pokemon.imprime();
   }
 }
